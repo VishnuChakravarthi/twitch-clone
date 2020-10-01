@@ -8,7 +8,7 @@ const GoogleAuth = ({ signIn, signOut, signedIn }) => {
       window.gapi.client
         .init({
           clientId:
-            "716697229150-idpava8ss43g4ul9ulmm4r8jl6nq0kpo.apps.googleusercontent.com",
+            "716697229150-idpava8ss43g4ul9ulmm4r8jl6nq0.apps.googleusercontent.com",
           scope: "email",
         })
         .then(() => {
