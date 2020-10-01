@@ -1,21 +1,6 @@
 {
   "streams": [
     {
-      "title": "sdas",
-      "description": "sads",
-      "id": 1
-    },
-    {
-      "title": "shjashd",
-      "description": "asjdaskjdk",
-      "id": 2
-    },
-    {
-      "title": "fsd",
-      "description": "asdas",
-      "id": 3
-    },
-    {
       "title": "New one and edit",
       "description": "I create this",
       "id": 6
@@ -31,6 +16,12 @@
       "description": "Testing for new implementations edit",
       "userId": "103674437000373472416",
       "id": 8
+    },
+    {
+      "title": "Stream 1",
+      "description": "Created with vis18",
+      "userId": "109632754623410408807",
+      "id": 9
     }
   ]
 }
