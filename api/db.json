@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "sdas",
+      "description": "sads",
+      "id": 1
+    },
+    {
+      "title": "shjashd",
+      "description": "asjdaskjdk",
+      "id": 2
+    },
+    {
+      "title": "fsd",
+      "description": "asdas",
+      "id": 3
+    },
+    {
+      "title": "New one and edit",
+      "description": "I create this",
+      "id": 6
+    },
+    {
+      "title": "next one and edit",
+      "description": "I create a new one example",
+      "userId": "103674437000373472416",
+      "id": 7
+    },
+    {
+      "title": "New edit test",
+      "description": "Testing for new implementations edit",
+      "userId": "103674437000373472416",
+      "id": 8
+    }
+  ]
+}
